@@ -1,4 +1,4 @@
-# 🧰 Project Requirements
+# 🧰 Project Requirments
 
 Welcome to the **README Activity Calendar** project!  
 This file lists all the tools, software, and libraries you'll need to run, test, or contribute to this project easily.
@@ -38,7 +38,7 @@ Perfect for enhancing developer READMEs with interactive activity widgets and sh
 ## 📚 Libraries & Dependencies
 
 ### Core Dependencies
-- **GitHub REST API v4**  
+- **GitHub REST API v3**  
   Used to fetch public GitHub activity and contribution data  
   ➤ No setup required — works client-side using JavaScript `fetch()`  
   ➤ Rate limit: 60 requests/hour for unauthenticated requests
@@ -60,7 +60,7 @@ Perfect for enhancing developer READMEs with interactive activity widgets and sh
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/marudhu30/readme-activity-calender.git
+git clone https://github.com/Fewinfos/readme-activity-calender.git
 cd readme-activity-calender
 ```
 
