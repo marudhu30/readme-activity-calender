@@ -103,7 +103,7 @@ jobs:
                     errorMessages.push(`:warning: File \`${file.filename}\` contains \`print()\`. Remove debug statements before merging.`);
                   }
                   // 4. Long lines
-                  const longLines = content.split('\n').filter(l => l.length > 120);
+                  const longLines = content.split('\n').filter(l => l.length > MAX_LINE_LENGTH);
                   if (longLines.length > 0) {
                     errorMessages.push(`:warning: File \`${file.filename}\` contains lines longer than 120 characters.`);
                   }
