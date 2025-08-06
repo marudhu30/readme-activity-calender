@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/fewinfos-banner.png" alt="Willkommen bei FEWINFOS Contribution - GitHub Repository Statistik-Widget" width="100%">
+  <img src="./assets/fewinfos-banner.png" alt="Welcome to FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
 </div>
 
 📦 GitHub Repository Statistik-Widget
