@@ -1,6 +1,5 @@
-...
 <div align="center">
-<img src="./assets/fewinfos-banner.png" alt="FEWINFOS Contributionへようこそ - GitHubリポジトリ統計ウィジェット" width="100%">
+  <img src="./assets/fewinfos-banner.png" alt="Welcome to FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
 </div>
 
 📦 GitHubリポジトリ統計ウィジェット
