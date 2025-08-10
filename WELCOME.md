@@ -74,12 +74,6 @@ Want to be showcased as a contributor?
       contributor
     </td>
     <td align="center">
-      <a href="https://github.com/marudhu30">
-        <img src="https://avatars.githubusercontent.com/u/213002205?s=400&u=c51428195d5e2172c90ce545dd4d48fb8f2bbfa0&v=4" width="100px;" alt="Marudhu"/><br/>
-        <sub><b>Marudhu</b></sub>
-      </a><br/>
-      Contributor
-    </td>
     <td align="center">
       <a href="https://github.com/muthuraj128">
         <img src="https://avatars.githubusercontent.com/u/199897552?v=4&size=64" width="100px;" alt="Muthuraj"/><br/>
