@@ -9,6 +9,8 @@ We welcome community contributions!
    ```
 3. **Create a feature branch**
    ```bash
+   git checkout develop
+   git pull origin develop
    git checkout -b feature/your-feature
    ```
 4. Make changes and **commit**
@@ -16,9 +18,22 @@ We welcome community contributions!
    git commit -m "Add: new feature"
    git push origin feature/your-feature
    ```
-5. **Open a Pull Request**
+5. **Open a Pull Request targeting develop branch**
 
 ---
+
+
+**How to run locally in your system**
+
+1. create vercel account : vercel.com
+2. Install node.js (for node cmd)
+3. open node cmd
+```bash
+   vercel login
+   cd your-project-folder
+   vercel dev
+```
+
 
 ## 🧠 Future Ideas
 
