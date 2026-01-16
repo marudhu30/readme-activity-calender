@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-[![Banner Image](https://github-repo-readme-stats.vercel.app/api)](https://github.com/fewinfos)
+[![Banner Image](https://github-repo-readme-stats.vercel.app/api/?username=fewinfos&repo=github-repo-readme-stats)](https://github.com/fewinfos)
 
 
 # 📦 GitHub Repository Stats Widget
