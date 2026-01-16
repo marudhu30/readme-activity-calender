@@ -2,7 +2,8 @@
   "version": 2,
   "functions": {
     "api/index.js": {
-      "memory": 128
+      "memory": 128,
+      "maxDuration": 10
     }
   },
   "routes": [
@@ -12,7 +13,18 @@
     },
     {
       "src": "/api",
-      "dest": "api/index.js"
+      "dest": "/api/index.js"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/api",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=1800, s-maxage=1800, stale-while-revalidate=86400"
+        }
+      ]
     }
   ]
 }
